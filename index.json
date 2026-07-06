@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-06T21:40:42Z",
+  "generatedAt": "2026-07-06T21:49:39Z",
   "splits": [
     {
-      "id": "La Thuile/2026-WC-La Thuile",
-      "name": "2026 WC La Thuile",
+      "id": "La Thuile/2026-World Cup",
+      "name": "2026 World Cup",
       "venue": "La Thuile",
-      "path": "laps/La Thuile/2026-WC-La Thuile.bybLap",
+      "path": "laps/La Thuile/2026-World Cup.bybLap",
       "centroid": {
         "lat": 45.7,
         "lon": 6.95
