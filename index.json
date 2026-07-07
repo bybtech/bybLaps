@@ -1,20 +1,90 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-06T21:49:39Z",
+  "generatedAt": "2026-07-07T00:06:50Z",
   "splits": [
     {
-      "id": "La Thuile/2026-World Cup",
-      "name": "2026 World Cup",
+      "id": "La Thuile/2026-WorldCup",
+      "name": "2026 WorldCup",
       "venue": "La Thuile",
-      "path": "laps/La Thuile/2026-World Cup.bybLap",
+      "path": "laps/La Thuile/2026-WorldCup.bybLap",
       "centroid": {
-        "lat": 45.7,
-        "lon": 6.95
+        "lat": 45.70598100750369,
+        "lon": 6.943349524105832
+      },
+      "isClosedLap": false,
+      "splitCount": 4,
+      "savedAt": "2026-07-07T00:03:10Z",
+      "sizeBytes": 1697
+    },
+    {
+      "id": "La Thuile/2026-WorldCup-ExtraSplits",
+      "name": "2026 WorldCup ExtraSplits",
+      "venue": "La Thuile",
+      "path": "laps/La Thuile/2026-WorldCup-ExtraSplits.bybLap",
+      "centroid": {
+        "lat": 45.70608195715346,
+        "lon": 6.9432977691839
       },
       "isClosedLap": false,
       "splitCount": 9,
-      "savedAt": "2026-07-06T22:05:00Z",
-      "sizeBytes": 3770
+      "savedAt": "2026-07-07T00:03:10Z",
+      "sizeBytes": 2929
+    },
+    {
+      "id": "Lenzerheide/2026-WorldCup",
+      "name": "2026 WorldCup",
+      "venue": "Lenzerheide",
+      "path": "laps/Lenzerheide/2026-WorldCup.bybLap",
+      "centroid": {
+        "lat": 46.74127842624711,
+        "lon": 9.564507923150304
+      },
+      "isClosedLap": false,
+      "splitCount": 4,
+      "savedAt": "2026-07-07T00:03:10Z",
+      "sizeBytes": 1689
+    },
+    {
+      "id": "Lenzerheide/2026-WorldCup-ExtraSplits",
+      "name": "2026 WorldCup ExtraSplits",
+      "venue": "Lenzerheide",
+      "path": "laps/Lenzerheide/2026-WorldCup-ExtraSplits.bybLap",
+      "centroid": {
+        "lat": 46.74149613643851,
+        "lon": 9.565164775850674
+      },
+      "isClosedLap": false,
+      "splitCount": 8,
+      "savedAt": "2026-07-07T00:03:10Z",
+      "sizeBytes": 2673
+    },
+    {
+      "id": "Loudenvielle/2026-WorldCup",
+      "name": "2026 WorldCup",
+      "venue": "Loudenvielle",
+      "path": "laps/Loudenvielle/2026-WorldCup.bybLap",
+      "centroid": {
+        "lat": 42.798004668896695,
+        "lon": 0.41971585281980833
+      },
+      "isClosedLap": false,
+      "splitCount": 4,
+      "savedAt": "2026-07-07T00:03:11Z",
+      "sizeBytes": 1707
+    },
+    {
+      "id": "Loudenvielle/2026-WorldCup-ExtraSplits",
+      "name": "2026 WorldCup ExtraSplits",
+      "venue": "Loudenvielle",
+      "path": "laps/Loudenvielle/2026-WorldCup-ExtraSplits.bybLap",
+      "centroid": {
+        "lat": 42.79769212234471,
+        "lon": 0.4206308826473983
+      },
+      "isClosedLap": false,
+      "splitCount": 8,
+      "savedAt": "2026-07-07T00:03:11Z",
+      "sizeBytes": 2703
     }
   ]
 }
