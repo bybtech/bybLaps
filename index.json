@@ -1,7 +1,35 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-07T00:06:50Z",
+  "generatedAt": "2026-07-08T10:38:17Z",
   "splits": [
+    {
+      "id": "Andorra/2026-WorldCup",
+      "name": "2026 WorldCup",
+      "venue": "Andorra",
+      "path": "laps/Andorra/2026-WorldCup.bybLap",
+      "centroid": {
+        "lat": 42.53032056182202,
+        "lon": 1.4649235328600474
+      },
+      "isClosedLap": false,
+      "splitCount": 4,
+      "savedAt": "2026-07-08T10:34:21Z",
+      "sizeBytes": 1709
+    },
+    {
+      "id": "Andorra/2026-WorldCup-ExtraSplits",
+      "name": "2026 WorldCup ExtraSplits",
+      "venue": "Andorra",
+      "path": "laps/Andorra/2026-WorldCup-ExtraSplits.bybLap",
+      "centroid": {
+        "lat": 42.530324937541046,
+        "lon": 1.4651733202591701
+      },
+      "isClosedLap": false,
+      "splitCount": 10,
+      "savedAt": "2026-07-08T10:34:21Z",
+      "sizeBytes": 3197
+    },
     {
       "id": "La Thuile/2026-WorldCup",
       "name": "2026 WorldCup",
