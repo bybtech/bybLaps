@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-07-22T10:56:31Z",
+  "generatedAt": "2026-07-22T12:11:54Z",
   "splits": [
     {
       "id": "Andorra/2026-WorldCup",
@@ -14,7 +14,7 @@
       "isClosedLap": false,
       "splitCount": 4,
       "savedAt": "2026-07-08T10:34:21Z",
-      "sizeBytes": 11383,
+      "sizeBytes": 11440,
       "preview": {
         "gates": [
           {
@@ -288,7 +288,7 @@
       "isClosedLap": false,
       "splitCount": 10,
       "savedAt": "2026-07-08T10:34:21Z",
-      "sizeBytes": 12871,
+      "sizeBytes": 12954,
       "preview": {
         "gates": [
           {
@@ -628,7 +628,7 @@
       "isClosedLap": false,
       "splitCount": 4,
       "savedAt": "2026-07-07T00:03:10Z",
-      "sizeBytes": 14379,
+      "sizeBytes": 14438,
       "preview": {
         "gates": [
           {
@@ -910,7 +910,7 @@
       "isClosedLap": false,
       "splitCount": 9,
       "savedAt": "2026-07-07T00:03:10Z",
-      "sizeBytes": 15611,
+      "sizeBytes": 15696,
       "preview": {
         "gates": [
           {
@@ -1247,7 +1247,7 @@
       "isClosedLap": false,
       "splitCount": 4,
       "savedAt": "2026-07-07T00:03:10Z",
-      "sizeBytes": 11191,
+      "sizeBytes": 11252,
       "preview": {
         "gates": [
           {
@@ -1517,7 +1517,7 @@
       "isClosedLap": false,
       "splitCount": 8,
       "savedAt": "2026-07-07T00:03:10Z",
-      "sizeBytes": 12175,
+      "sizeBytes": 12262,
       "preview": {
         "gates": [
           {
@@ -1831,7 +1831,7 @@
       "isClosedLap": false,
       "splitCount": 4,
       "savedAt": "2026-07-22T10:41:28Z",
-      "sizeBytes": 13664,
+      "sizeBytes": 13721,
       "preview": {
         "gates": [
           {
@@ -2097,7 +2097,7 @@
       "isClosedLap": false,
       "splitCount": 10,
       "savedAt": "2026-07-22T10:41:28Z",
-      "sizeBytes": 15154,
+      "sizeBytes": 15237,
       "preview": {
         "gates": [
           {
@@ -2429,7 +2429,7 @@
       "isClosedLap": false,
       "splitCount": 4,
       "savedAt": "2026-07-07T00:03:11Z",
-      "sizeBytes": 13022,
+      "sizeBytes": 13084,
       "preview": {
         "gates": [
           {
@@ -2695,7 +2695,7 @@
       "isClosedLap": false,
       "splitCount": 8,
       "savedAt": "2026-07-07T00:03:11Z",
-      "sizeBytes": 14018,
+      "sizeBytes": 14106,
       "preview": {
         "gates": [
           {

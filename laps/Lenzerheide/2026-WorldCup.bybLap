@@ -7,6 +7,8 @@
     "lon": 9.564507923150304
   },
   "isClosedLap": false,
+  "locationName": "Lenzerheide",
+  "track": "2026 WorldCup",
   "gates": [
     {
       "type": "start",

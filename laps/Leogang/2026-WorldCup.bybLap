@@ -7,6 +7,8 @@
     "lon": 12.713539354672394
   },
   "isClosedLap": false,
+  "locationName": "Leogang",
+  "track": "2026 WorldCup",
   "gates": [
     {
       "type": "start",

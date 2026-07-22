@@ -7,6 +7,8 @@
     "lon": 6.943349524105832
   },
   "isClosedLap": false,
+  "locationName": "La Thuile",
+  "track": "2026 WorldCup",
   "gates": [
     {
       "type": "start",

@@ -7,6 +7,8 @@
     "lon": 0.41971585281980833
   },
   "isClosedLap": false,
+  "locationName": "Loudenvielle",
+  "track": "2026 WorldCup",
   "gates": [
     {
       "type": "start",
